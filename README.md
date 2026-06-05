@@ -1,10 +1,10 @@
-# 🗓️ Student Exam Scheduling System
+#  Student Exam Scheduling System
 
 A powerful C-based scheduling program that manages **students**, **courses**, and **exam halls** using arrays, loops, and string parsing. It lets users input data about students and exam dates, then apply 10+ different filters and queries to retrieve structured info.
 
 ---
 
-## 📌 What It Does
+##  What It Does
 
 - Stores student IDs, course codes, exam dates, and hall numbers
 - Lets users query:
@@ -16,7 +16,7 @@ A powerful C-based scheduling program that manages **students**, **courses**, an
 
 ---
 
-## 🧠 My Role
+##  My Role
 
 - Built core functions for filtering student/hall/date data
 - Parsed complex string inputs using nested loops and ASCII checks
@@ -26,7 +26,7 @@ A powerful C-based scheduling program that manages **students**, **courses**, an
 
 ---
 
-## 🛠️ Tools & Concepts
+##  Tools & Concepts
 
 - C Programming
 - String Parsing
@@ -36,7 +36,7 @@ A powerful C-based scheduling program that manages **students**, **courses**, an
 
 ---
 
-## ✅ Features
+##  Features
 
 - Parses student and exam info from user input
 - 10+ unique queries (attendance, counts, conflicts)
@@ -45,13 +45,13 @@ A powerful C-based scheduling program that manages **students**, **courses**, an
 
 ---
 
-## 📅 Date
+##  Date
 
 **Fall 2023 – 2024** (University project)
 
 ---
 
-## ✍️ Author
+##  Author
 
 **Areej Abdelghany Hamed**  
 Mechatronics Engineering Student  
